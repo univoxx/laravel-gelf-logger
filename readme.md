@@ -1,3 +1,4 @@
+##Forked from Hedii to add Laravel 6.0 Support
 [![Build Status](https://travis-ci.org/hedii/laravel-gelf-logger.svg?branch=master)](https://travis-ci.org/hedii/laravel-gelf-logger)
 
 # Laravel Gelf Logger
